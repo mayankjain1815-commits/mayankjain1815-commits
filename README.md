@@ -100,3 +100,7 @@ are point-in-time and will drift.
   rather than shown as "no status", which would misrepresent them.
 - Star and fork badges are omitted on purpose: every repository here has 0 of
   each, so the badge would add noise and imply activity that is not there.
+
+## License
+
+[MIT](LICENSE) — see the file for the full text.
