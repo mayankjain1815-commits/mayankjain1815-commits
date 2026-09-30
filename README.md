@@ -9,14 +9,6 @@ Every badge below is a **live** [shields.io](https://shields.io) endpoint that q
 GitHub when the image is rendered — none of them are values I typed in. The one dated
 table is labelled as such, with the exact command to reproduce it.
 
-## GitHub achievements
-
-[![Quickdraw](https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png)](https://github.com/mayankjain1815-commits?tab=achievements) [![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)](https://github.com/mayankjain1815-commits?tab=achievements) [![YOLO](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png)](https://github.com/mayankjain1815-commits?tab=achievements)
-
-GitHub's own achievement images — the same PNGs rendered in the profile sidebar —
-earned for pull-request activity. Linked to the live
-[achievements tab](https://github.com/mayankjain1815-commits?tab=achievements).
-
 ## Live status — `Bhushan2318/sih-main`
 
 ![setup](https://img.shields.io/github/actions/workflow/status/Bhushan2318/sih-main/setup.yml?label=setup) ![Train](https://img.shields.io/github/actions/workflow/status/Bhushan2318/sih-main/test-backfill-train.yml?label=train) ![Refresh](https://img.shields.io/github/actions/workflow/status/Bhushan2318/sih-main/refresh-data.yml?label=refresh) ![Last commit](https://img.shields.io/github/last-commit/Bhushan2318/sih-main?label=last%20commit) ![Commit activity](https://img.shields.io/github/commit-activity/m/Bhushan2318/sih-main?label=commits/mo) ![Contributors](https://img.shields.io/github/contributors/Bhushan2318/sih-main?label=contributors) ![Stars](https://img.shields.io/github/stars/Bhushan2318/sih-main?label=stars) ![Open issues](https://img.shields.io/github/issues/Bhushan2318/sih-main?label=open%20issues) ![Repo size](https://img.shields.io/github/repo-size/Bhushan2318/sih-main?label=size) ![Top language](https://img.shields.io/github/languages/top/Bhushan2318/sih-main?label=main%20language)
