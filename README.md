@@ -9,16 +9,19 @@ Every badge below is a **live** [shields.io](https://shields.io) endpoint that q
 GitHub when the image is rendered — none of them are values I typed in. The one dated
 table is labelled as such, with the exact command to reproduce it.
 
-## Live status — `mayankjain1815-commits/OmniRoute`
+## Live status — `Bhushan2318/sih-main`
 
-![CI](https://img.shields.io/github/actions/workflow/status/mayankjain1815-commits/OmniRoute/ci.yml?label=CI) ![Semgrep](https://img.shields.io/github/actions/workflow/status/mayankjain1815-commits/OmniRoute/semgrep.yml?label=Semgrep) ![DAST](https://img.shields.io/github/actions/workflow/status/mayankjain1815-commits/OmniRoute/dast-smoke.yml?label=DAST) ![Last commit](https://img.shields.io/github/last-commit/mayankjain1815-commits/OmniRoute?label=last%20commit) ![Commit activity](https://img.shields.io/github/commit-activity/m/mayankjain1815-commits/OmniRoute?label=commits/mo) ![Contributors](https://img.shields.io/github/contributors/mayankjain1815-commits/OmniRoute?label=contributors) ![License](https://img.shields.io/github/license/mayankjain1815-commits/OmniRoute?label=license) ![Open issues](https://img.shields.io/github/issues/mayankjain1815-commits/OmniRoute?label=open%20issues) ![Repo size](https://img.shields.io/github/repo-size/mayankjain1815-commits/OmniRoute?label=size) ![Top language](https://img.shields.io/github/languages/top/mayankjain1815-commits/OmniRoute?label=main%20language)
+![setup](https://img.shields.io/github/actions/workflow/status/Bhushan2318/sih-main/setup.yml?label=setup) ![Train](https://img.shields.io/github/actions/workflow/status/Bhushan2318/sih-main/test-backfill-train.yml?label=train) ![Refresh](https://img.shields.io/github/actions/workflow/status/Bhushan2318/sih-main/refresh-data.yml?label=refresh) ![Last commit](https://img.shields.io/github/last-commit/Bhushan2318/sih-main?label=last%20commit) ![Commit activity](https://img.shields.io/github/commit-activity/m/Bhushan2318/sih-main?label=commits/mo) ![Contributors](https://img.shields.io/github/contributors/Bhushan2318/sih-main?label=contributors) ![Stars](https://img.shields.io/github/stars/Bhushan2318/sih-main?label=stars) ![Open issues](https://img.shields.io/github/issues/Bhushan2318/sih-main?label=open%20issues) ![Repo size](https://img.shields.io/github/repo-size/Bhushan2318/sih-main?label=size) ![Top language](https://img.shields.io/github/languages/top/Bhushan2318/sih-main?label=main%20language)
 
-## OmniRoute
+## SIH 2026 — district-level weather forecast verification
 
-**[OmniRoute](https://github.com/mayankjain1815-commits/OmniRoute)** — a unified AI proxy/router: one endpoint,
-291 LLM providers, automatic fallback. TypeScript, MIT-licensed.
+**[sih-main](https://github.com/Bhushan2318/sih-main)** — predicts where India's medium-range
+weather forecasts will bust, district by district, and explains why with SHAP.
+XGBoost + FastAPI + React. **Selected for the national round of Smart India
+Hackathon 2026**, problem statement 26079 (Ministry of Earth Sciences).
+Python.
 
-![CI](https://img.shields.io/github/actions/workflow/status/mayankjain1815-commits/OmniRoute/ci.yml?label=CI) ![Last commit](https://img.shields.io/github/last-commit/mayankjain1815-commits/OmniRoute?label=last%20commit) ![Open issues](https://img.shields.io/github/issues/mayankjain1815-commits/OmniRoute?label=open%20issues) ![Contributors](https://img.shields.io/github/contributors/mayankjain1815-commits/OmniRoute?label=contributors) ![License](https://img.shields.io/github/license/mayankjain1815-commits/OmniRoute?label=license)
+![setup](https://img.shields.io/github/actions/workflow/status/Bhushan2318/sih-main/setup.yml?label=setup) ![Train](https://img.shields.io/github/actions/workflow/status/Bhushan2318/sih-main/test-backfill-train.yml?label=train) ![Last commit](https://img.shields.io/github/last-commit/Bhushan2318/sih-main?label=last%20commit) ![Open issues](https://img.shields.io/github/issues/Bhushan2318/sih-main?label=open%20issues) ![Contributors](https://img.shields.io/github/contributors/Bhushan2318/sih-main?label=contributors) ![Stars](https://img.shields.io/github/stars/Bhushan2318/sih-main?label=stars)
 
 ## Languages across all public repositories
 
@@ -87,19 +90,21 @@ are point-in-time and will drift.
 
 ## How to read these badges
 
-- **CI**, **Semgrep** and **DAST** track the most recent completed run on the
-  **default branch** (`main`) — they describe `main`, not a pull request. All
-  three use `github/actions/workflow/status`, which reads the latest completed
-  run; the older `github/workflow/status` endpoint is broken upstream and is not
-  used here.
+- **setup**, **Train** and **Refresh** track the most recent completed run of
+  those three workflows on the **default branch** (`main`) — they describe `main`,
+  not a pull request. All three use `github/actions/workflow/status`, which reads
+  the latest completed run; the older `github/workflow/status` endpoint is broken
+  upstream and is not used here. `sih-main` runs seven workflows; only these
+  three are shown, to keep the line readable.
 - **Last commit**, **commit activity**, **open issues**, **contributors**,
   **license**, **repo size**, **top language** and every per-repository badge are
   queried from GitHub each time the image is fetched, so they stay current on
   their own with no action from me.
 - Workflows that have never completed a run on the default branch are **omitted**
   rather than shown as "no status", which would misrepresent them.
-- Star and fork badges are omitted on purpose: every repository here has 0 of
-  each, so the badge would add noise and imply activity that is not there.
+- Star badges are omitted on purpose for the repositories in the table below:
+  each of them has 0 stars, so the badge would add noise and imply activity that
+  is not there. `sih-main` does carry a star badge, because it has real stars.
 
 ## License
 
