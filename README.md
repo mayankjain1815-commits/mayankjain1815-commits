@@ -8,7 +8,7 @@ Most of my public work is TypeScript.
 ## Featured — AI/ML portfolio
 
 <p align="center">
-  <img src="assets/portfolio-hero.gif" alt="Continuous 3D rotating type: RAG, AGENTS, MLOPS, FORECAST, SIGNALS, SKILLS, RISK, OFFLINE, DEMO and IOT orbiting a BUILD / EXPLAIN core" width="720">
+  <img src="assets/portfolio-hero.webp" alt="Continuous 3D rotating type: RAG, AGENTS, MLOPS, FORECAST, SIGNALS, SKILLS, RISK, OFFLINE, DEMO and IOT orbiting a BUILD / EXPLAIN core" width="720">
 </p>
 
 Eight self-contained projects — agents, retrieval, drift detection, disaster
@@ -18,7 +18,7 @@ decision is mine to explain. Every one runs fully offline in demo mode.
 or open the **[3D landing page](https://github.com/mayankjain1815-commits/ai-ml-portfolio/blob/main/index.html)**.
 
 <p align="center">
-  <img src="assets/portfolio-systems.gif" alt="Three animated systems: an interactive particle constellation, a rotating wireframe threat globe with radar sweep, and a neural activation graph with signals propagating between layers" width="900">
+  <img src="assets/portfolio-systems.webp" alt="Three animated systems: an interactive particle constellation, a rotating wireframe threat globe with radar sweep, and a neural activation graph with signals propagating between layers" width="900">
 </p>
 
 | System | What it actually does |
