@@ -5,6 +5,34 @@
 2nd Year EEE student in Bangalore. Backend & data analytics.
 Most of my public work is TypeScript.
 
+## Featured — AI/ML portfolio
+
+<p align="center">
+  <img src="assets/portfolio-hero.gif" alt="Continuous 3D rotating type: RAG, AGENTS, MLOPS, FORECAST, SIGNALS, SKILLS, RISK, OFFLINE, DEMO and IOT orbiting a BUILD / EXPLAIN core" width="720">
+</p>
+
+Eight self-contained projects — agents, retrieval, drift detection, disaster
+forecasting and an IoT command platform — built from scratch so every design
+decision is mine to explain. Every one runs fully offline in demo mode.
+**[Explore the portfolio](https://github.com/mayankjain1815-commits/ai-ml-portfolio)**
+or open the **[3D landing page](https://github.com/mayankjain1815-commits/ai-ml-portfolio/blob/main/index.html)**.
+
+<p align="center">
+  <img src="assets/portfolio-systems.gif" alt="Three animated systems: an interactive particle constellation, a rotating wireframe threat globe with radar sweep, and a neural activation graph with signals propagating between layers" width="900">
+</p>
+
+| System | What it actually does |
+|--------|-----------------------|
+| **Particle constellation** | Depth-projected nodes, proximity links, front-layer glow and cursor parallax — no physics library. |
+| **Threat globe** | A wireframe lat/lon sphere projected in software, rotating under a radar sweep with six live sensor positions. |
+| **Activation graph** | Signals travelling across weighted 4→6→6→3 layers with per-node activation pulses. |
+
+Hand-written canvas systems: no WebGL, no libraries, no external assets. The
+**aurora neon** palette — obsidian navy, electric cyan, hot magenta, acid lime,
+violet and ice white — carries across the portfolio, the landing page and these
+animations. The GIFs are here because GitHub strips `<script>` and `<canvas>`
+from Markdown; the interactive versions are on the landing page.
+
 Every badge below is a **live** [shields.io](https://shields.io) endpoint that queries
 GitHub when the image is rendered — none of them are values I typed in. The one dated
 table is labelled as such, with the exact command to reproduce it.
