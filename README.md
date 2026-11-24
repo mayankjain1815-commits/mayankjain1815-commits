@@ -12,8 +12,13 @@ Most of my public work is TypeScript.
 ## ![▸](https://img.shields.io/badge/%E2%96%B8-2DE7FF?style=flat-square) Featured — AI/ML portfolio
 
 <p align="center">
-  <img src="assets/portfolio-hero.webp" alt="Continuous 3D rotating type: RAG, AGENTS, MLOPS, FORECAST, SIGNALS, SKILLS, RISK, OFFLINE, DEMO and IOT orbiting a BUILD / EXPLAIN core" width="720">
+  <img src="assets/portfolio-hero.webp" alt="Two continuous 3D rings: ten concept words orbit a BUILD / EXPLAIN / DEFEND core while a counter-rotating inner ring carries 23 public repositories" width="720">
 </p>
+
+<p align="center">
+  <img src="assets/portfolio-christmas.webp" alt="The same dual-ring animation in the Christmas theme with tree green, bauble red, gold and snow" width="720">
+</p>
+
 
 Eight self-contained projects — agents, retrieval, drift detection, disaster
 forecasting and an IoT command platform — built from scratch so every design
@@ -33,14 +38,18 @@ or open the **[3D landing page](https://github.com/mayankjain1815-commits/ai-ml-
 
 No WebGL, no libraries, no external assets. The **aurora neon** palette — obsidian
 navy, electric cyan, hot magenta, acid lime, violet and ice white — carries across
-the portfolio, the landing page and these animations. GitHub strips `<script>` and
-`<canvas>` from Markdown, so these are animated WebP recordings; the interactive
-versions live on the landing page.
+the portfolio, the landing page and these animations. The landing page also has a
+**Christmas toggle**: the same three systems switch to tree green, bauble red and
+gold with falling snow, and the choice survives reloads. GitHub strips `<script>`
+and `<canvas>` from Markdown, so these are animated WebP recordings; the
+interactive versions live on the landing page.
 
-Clicking any rotating word on the landing page opens its full record — definition,
-pipeline, real code anchors, commands and an interview answer — served by a small
+The landing page now rotates **two** rings: ten concept words and a counter-rotating
+inner ring of **23 public repositories**. Clicking a word or a repo opens its full
+record — definitions and real code anchors for words; stack, highlights, linked
+words and a clone command for repos — served by a small
 [Flask word atlas](https://github.com/mayankjain1815-commits/ai-ml-portfolio/blob/main/backend/README.md)
-with an embedded offline fallback.
+with cross-ring search, live stats and an embedded offline fallback.
 
 ![rule](https://img.shields.io/badge/====================-FF42C6?style=flat-square)
 
