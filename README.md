@@ -12,19 +12,14 @@ Most of my public work is TypeScript.
 ## ![▸](https://img.shields.io/badge/%E2%96%B8-2DE7FF?style=flat-square) Featured — AI/ML portfolio
 
 <p align="center">
-  <img src="assets/portfolio-hero.webp" alt="Two continuous 3D rings: ten concept words orbit a BUILD / EXPLAIN / DEFEND core while a counter-rotating inner ring carries 23 public repositories" width="720">
+  <img src="assets/portfolio-hero.webp" alt="Animated solar system: ten textured concept planets orbit close to a bright core while 23 repository planets follow eight wider orbit bands with rings and moons" width="720">
 </p>
-
-<p align="center">
-  <img src="assets/portfolio-christmas.webp" alt="The same dual-ring animation in the Christmas theme with tree green, bauble red, gold and snow" width="720">
-</p>
-
 
 Eight self-contained projects — agents, retrieval, drift detection, disaster
 forecasting and an IoT command platform — built from scratch so every design
 decision is mine to explain. Every one runs fully offline in demo mode.
 **[Explore the portfolio](https://github.com/mayankjain1815-commits/ai-ml-portfolio)**
-or open the **[3D landing page](https://github.com/mayankjain1815-commits/ai-ml-portfolio/blob/main/index.html)**.
+or open the **[solar landing page](https://github.com/mayankjain1815-commits/ai-ml-portfolio/blob/main/index.html)**.
 
 <p align="center">
   <img src="assets/portfolio-systems.webp" alt="Three animated systems: an interactive particle constellation, a rotating wireframe threat globe with radar sweep, and a neural activation graph with signals propagating between layers" width="900">
@@ -38,18 +33,17 @@ or open the **[3D landing page](https://github.com/mayankjain1815-commits/ai-ml-
 
 No WebGL, no libraries, no external assets. The **aurora neon** palette — obsidian
 navy, electric cyan, hot magenta, acid lime, violet and ice white — carries across
-the portfolio, the landing page and these animations. The landing page also has a
-**Christmas toggle**: the same three systems switch to tree green, bauble red and
-gold with falling snow, and the choice survives reloads. GitHub strips `<script>`
+the portfolio, the landing page and these animations. GitHub strips `<script>`
 and `<canvas>` from Markdown, so these are animated WebP recordings; the
 interactive versions live on the landing page.
 
-The landing page now rotates **two** rings: ten concept words and a counter-rotating
-inner ring of **23 public repositories**. Clicking a word or a repo opens its full
-record — definitions and real code anchors for words; stack, highlights, linked
-words and a clone command for repos — served by a small
-[Flask word atlas](https://github.com/mayankjain1815-commits/ai-ml-portfolio/blob/main/backend/README.md)
-with cross-ring search, live stats and an embedded offline fallback.
+The landing page is now a **33-world solar system**: ten concept planets near the
+core and 23 repository planets across eight wider orbit bands. Clicking a planet
+opens its full record plus orbital results — definitions and real code anchors
+for words; stack, highlights, linked words and a clone command for repos. Everything
+is served by a small
+[Flask solar atlas](https://github.com/mayankjain1815-commits/ai-ml-portfolio/blob/main/backend/README.md)
+with cross-system search, live stats and an embedded offline fallback.
 
 ![rule](https://img.shields.io/badge/====================-FF42C6?style=flat-square)
 
